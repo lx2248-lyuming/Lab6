@@ -28,6 +28,8 @@ bool buttonOn[3][4] = {
 
 int midiNotes[3] = { 36, 38, 42 };
 
+int button = 13;
+
 
 
 void setup() {
