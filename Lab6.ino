@@ -30,6 +30,8 @@ int midiNotes[3] = { 36, 38, 42 };
 
 int button = 13;
 
+int led = 14;
+
 
 
 void setup() {
